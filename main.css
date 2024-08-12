@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(247, 227, 201);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(49, 49, 49);
+}
+
+p {
+    font-size: 20px;
+}
+
+
+
+ul li a {
+    color: rgb(66, 82, 82);
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+
+ul li a:hover {
+    color: rgb(110, 134, 134);
+}
